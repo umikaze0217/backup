@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"澪境神社前","order":1,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":2,"expanded":true,"name":"澪境神社　参道","order":2,"parentId":0,"scrollX":712,"scrollY":841.3333333333334},
+{"id":3,"expanded":false,"name":"澪社","order":3,"parentId":0,"scrollX":1052,"scrollY":852},
+{"id":4,"expanded":false,"name":"妖狐の村","order":5,"parentId":0,"scrollX":722.6666666666666,"scrollY":396},
+{"id":5,"expanded":false,"name":"北の川","order":4,"parentId":0,"scrollX":1052,"scrollY":396},
+{"id":6,"expanded":true,"name":"幽玄の屋敷","order":6,"parentId":0,"scrollX":712,"scrollY":753.3333333333334},
+{"id":7,"expanded":true,"name":"幽玄　屋敷","order":7,"parentId":6,"scrollX":712,"scrollY":505.3333333333333}
+]
